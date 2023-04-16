@@ -1,0 +1,27 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 16, 2023, 8:06:06 AM
+    Author     : Malik
+*/
+
+.LoginOutBtn{
+   -fx-background-color : #de4e00;
+   -fx-text-fill: white; 
+
+}
+.LoginOutBtn:hover{
+   -fx-background-color: deepskyblue;
+}
+
+.ConvertBtn{
+   -fx-background-color :  #363f70;
+   -fx-text-fill: white; 
+}
+.ConvertBtn:hover{
+   -fx-background-color: deepskyblue;
+
+}

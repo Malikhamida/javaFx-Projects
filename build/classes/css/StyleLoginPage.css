@@ -1,0 +1,39 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 16, 2023, 8:05:07 AM
+    Author     : Malik
+*/
+
+Label{
+    -fx-text-alignment : center;
+    -fx-font-size :16;
+    -fx-font-weight : bold;
+    -fx-text-fill: black;
+}
+
+TextField , PasswordField{
+    -fx-font-weight : bold;
+    -fx-border-color: blue;
+    -fx-font-size :15;
+    
+}
+
+.btn{
+    -fx-padding: 10 25 10 25;
+    -fx-background-color: blue;
+    -fx-border-radius: 10; 
+    -fx-font-size :14;
+    -fx-text-fill: white;
+    -fx-font-weight : bold;
+
+
+
+}
+.btn:hover{
+   -fx-background-color: deepskyblue;
+
+}
